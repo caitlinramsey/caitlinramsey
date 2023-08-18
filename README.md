@@ -26,7 +26,11 @@
 <h3>🐴 Fun fact: I've been riding and training horses for 20 years</h3>
 <h3>🔭 I’m currently working on finding a job in the web development sector</h3>
 <h3>📬 How to reach me:</h3>
-- Email: caitlinramsey@outlook.com
+- 📧 Email: <a href='mailto:caitlinramsey@outlook.com'>caitlinramsey@outlook.com</a>
+</br>
+- 💻 Web Development Portfolio: <a href='https://doubledowncreations.netlify.app'>Web Dev Portfolio</a>
+</br>
+- 📷 Photorgraphy/Grahpic Design Portfolio: <a href='https://doubledowncreations.com/'>Photography Portfolio</a>
 <div id='tools'>
 <h1>:hammer_and_wrench: Languages and Tools:</h1>
   <div>
