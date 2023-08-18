@@ -17,7 +17,7 @@
 </div>
 <div id='about-me'>
   <h1> 🌼 A little about me</h1>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Raleigh,    North Carolina.
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Raleigh, North Carolina.
 </br>
 </br>
   After graduating college in 2019 with a Bachelor of Science in Environmental Conservation and a Bachelor of Arts in New Media, I started working in graphic design. After a few years of jobs that werre not well suited to what I was wanting to do, I decided to learn to code. I had always been interested in coding and did a small bit of learning on my own before enrolling in the 6-month Full Stack Development course I took.
@@ -51,7 +51,10 @@
   </div>
 </div>
 <h1>:fire: My Stats:</h1>
-<div id='stats'>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=caitlinramsey&theme=modern-lilac2)](https://git.io/streak-stats)
-</div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinramsey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=caitlinramsey&theme=modern-lilac2" alt="GitHub Streak" />
+</a>
+</br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caitlinramsey&layout=compact&theme=jolly" alt="Top Langs" />
+</a>
