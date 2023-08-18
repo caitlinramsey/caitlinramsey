@@ -13,7 +13,7 @@
   <h1>👋 Hi there, I'm Caitlin</h1>
 </div>
 <div align='center'>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="400"/>
 </div>
 <div id='about-me'>
   <h1> 🌼 A little about me</h1>
