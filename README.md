@@ -17,7 +17,7 @@
 </div>
 <div id='about-me'>
   <h1> 🌼 A little about me</h1>
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Raleigh, North Carolina.
+  I am a Full Stack Developer from Raleigh, North Carolina. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
 </br>
 </br>
   After graduating college in 2019 with a Bachelor of Science in Environmental Conservation and a Bachelor of Arts in New Media, I started working in graphic design. After a few years of jobs that werre not well suited to what I was wanting to do, I decided to learn to code. I had always been interested in coding and did a small bit of learning on my own before enrolling in the 6-month Full Stack Development course I took.
