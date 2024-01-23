@@ -30,7 +30,7 @@
 </br>
 - 💻 Web Development Portfolio: <a href='https://doubledowncreations.netlify.app'>Web Dev Portfolio</a>
 </br>
-- 📷 Photorgraphy/Grahpic Design Portfolio: <a href='https://doubledowncreations.com/'>Photography Portfolio</a>
+- 📷 Photorgraphy/Grahpic Design Portfolio: <a href='https://nordicfjordphoto.com/'>Photography Portfolio</a>
 <div id='tools'>
 <h1>:hammer_and_wrench: Languages and Tools:</h1>
   <div>
